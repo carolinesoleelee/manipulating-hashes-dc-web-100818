@@ -22,6 +22,6 @@ contacts.each do |person, data|
           flavor == "strawberry"
     end
   end
-end
+
   contacts
 end
