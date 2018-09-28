@@ -9,10 +9,3 @@ def second_challenge
   #code your solution here!
 
 end
-
-def change(groceries)
- groceries.each do |x|
-   puts x
-end
-
-end
